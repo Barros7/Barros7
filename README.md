@@ -25,7 +25,7 @@ I'm José Bongo  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gi
 
 ## <br/> 🙋‍♂️ Connect with me 
 
-  <a  href="https://www.linkedin.com/in/barros-bongo-512b45165/"><img align="left" alt="Linkedin" title="Youtube" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a  href="https://www.linkedin.com/in/jacob-barros-512b45165/"><img align="left" alt="Linkedin" title="Youtube" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
  <a  href="https://www.instagram.com/_j7cob/"><img align="left" alt="Youtube" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   
